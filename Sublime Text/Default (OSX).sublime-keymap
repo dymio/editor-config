@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+k", "super+e"], "command": "slurp_replace_string" },
+	{ "keys": ["super+shift+e"], "command": "toggle_side_bar" },
+]

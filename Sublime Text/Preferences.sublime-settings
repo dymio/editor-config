@@ -1,0 +1,19 @@
+{
+	// Color scheme
+	"color_scheme": "Packages/User/Polarise.sublime-color-scheme",
+	// Font https://www.sublimetext.com/docs/font.html
+	"font_size": 14,
+	// Indentation https://www.sublimetext.com/docs/indentation.html
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	// Indexing https://www.sublimetext.com/docs/indexing.html
+	"index_exclude_patterns": ["*.log"],
+	// Completions
+	"auto_complete": false,
+	"auto_complete_delay": 600,
+	// Other
+	"auto_match_enabled": false,
+	"theme": "auto",
+	// Vintage mode https://www.sublimetext.com/docs/vintage.html
+	"ignored_packages": ["Vintage"]
+}
